@@ -1,10 +1,11 @@
 {
-  "name": "cats",
+  "name": "three.guzlik.ru",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "homepage": "/three",
   "scripts": {
+    "install": "npm install",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
